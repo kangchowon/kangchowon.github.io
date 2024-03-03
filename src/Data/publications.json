@@ -1,22 +1,22 @@
 [
     {
-        "title": "Designing for self-tracking of emotion and experience with tangible modality",
-        "authors": ["Kwangyoung Lee", "Hwajung Hong"],
+        "title": "Beyond Swipes and Scores: Investigating Practices, Challenges and User-Centered Values in Online Dating Algorithms",
+        "authors": ["Chowon Kang", "Yoonseo Choi", "Yongjae Sohn", "Hyunseung Lim", "Hwajung Hong"],
         "highlight_author": [0],
-        "year": 2017,
-        "booktitle": "DIS 2017",
-        "state": "(To appear)",
-        "awards": ["Best Paper", "Honerable Mention"],
-        "url": "https://dl.acm.org/doi/abs/10.1145/3064663.3064697",
-        "pdf": "PDF/mindtracker2017.pdf",
-        "video": "https://www.youtube.com/watch?v=RflfWsLXDL8"
+        "year": 2024,
+        "booktitle": "CSCW 2024",
+        "state": "(In Review)",
+        "awards": []
     },
     {
-        "title": "Designing for self-tracking of emotion and experience with tangible modality",
-        "authors": ["Kwangyoung Lee", "Hwajung Hong"],
-        "highlight_author": [],
-        "year": 2017,
-        "booktitle": "DIS 2017",
+        "title": "Korean Emoticons: Understanding How Subtle Emotional Differences Are Evoked Online",
+        "authors": ["Chowon Kang", "Jongok Hong", "Wooje Chang", "Hyeonjeong Suk", "Hwajung Hong"],
+        "highlight_author": [0],
+        "year": 2022,
+        "booktitle": "CSCW 2022",
+        "state": "Poster",
+        "url": "https://dl.acm.org/doi/10.1145/3500868.3559463",
+        "pdf": "PDF/KoreanEmoticons.pdf",
         "awards": []
     }
 ]

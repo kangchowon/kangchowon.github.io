@@ -1,19 +1,46 @@
 [
     {
-        "title": "Datopia",
-        "people": ["Hyunseung Lim", "Dasom Choi", "Kwangyoung Lee", "Taewan Kim", "Eunseo Oh", "Inhwa Song", "Seokyoung Park", "Yubin Choi", "Hwajung Hong"],
+        "title": "Designing Algorithmic Features for Online Dating",
+        "people": ["Chowon Kang", "Yoonseo Choi", "Yongjae Sohn", "Hyunseung Lim", "Hwajung Hong", "Inhwa Song", "Seokyoung Park", "Yubin Choi", "Hwajung Hong"],
         "highlight_people": [0],
-        "year": "2022",
-        "description": "Datopia is a data-based dating service. By analyzing data, it captures everything from the preferences you didn't know you had to your minor daily habits. Through this, it goes beyond simple encounters to find you a destined partner with whom you can maintain a continuous relationship. But can love really be determined solely by data?",
-        "image": "project_1.png"
+        "year": "2024",
+        "description": "We conducted interviews and user-participatory design workshops where online daters share their online dating experiences, and design the algorithmic features shich can mitigate the challenges of the UX with online dating algorithms.",
+        "image": "onlinedating.png"
     }
     ,
     {
-        "title": "Datopia",
-        "people": ["Hyunseung Lim", "Dasom Choi", "Kwangyoung Lee", "Taewan Kim", "Eunseo Oh", "Inhwa Song", "Seokyoung Park", "Yubin Choi", "Hwajung Hong"],
+        "title": "How do Koreans convey emotions through ㅋ, ㅎㅎ, ㅠㅠㅠㅠ?",
+        "people": ["Chowon Kang", "Jongok Hong", "Wooje Chang", "Hyeonjeong Suk", "Hwajung Hong"],
         "highlight_people": [0],
         "year": "2022",
-        "description": "Datopia is a data-based dating service. By analyzing data, it captures everything from the preferences you didn't know you had to your minor daily habits.",
-        "image": "project_1.png"
+        "description": "We used a mixed method approach and collected data from 86 survey participants and 10 interview participants to understand subtle emotional differences in Korean contributing to computer-mediated-communication.",
+        "image": "koreanemoticon.png"
+    }
+    ,
+    {
+        "title": "Paprika: A diet management app using colors to control appetite",
+        "people": ["Chowon Kang", "Joonwoo Yoon", "Juhyung Park", "Yaedam Bang", "Taekjin Nam"],
+        "highlight_people": [0],
+        "year": "2022",
+        "description": "Paprika is an application design project using existing technology and qualitative research methods: We designed a nutrition application supporting patients through recoloring food contents based on the correlation of appetite and food color.",
+        "image": "paprika.png"
+    }
+    ,
+    {
+        "title": "Pain is healed by revealing: Alley regeneration of the Red District Wanwol-dong",
+        "people": ["Chowon Kang", "Sangwon Cho", "Heewon Kang"],
+        "highlight_people": [0],
+        "year": "2020",
+        "description": "We suggested an urban regeneration plan of 5 years to redevelop 'Wanwol-dong' which is the largest and oldest red-district remaining in Busan, Korea.",
+        "image": "busanwanwoldong.png"
+    }
+    ,
+    {
+        "title": "Office Hotel: Designing a Hotel for Bleisure Visitors in Gwanghwamun",
+        "people": ["Chowon Kang"],
+        "highlight_people": [0],
+        "year": "2019",
+        "description": "This is an architecture project to renovate an existing hotel placed in the heart of Gwanghwamun, to target office workers visiting Gwanghwamun alone for a short period of time.",
+        "image": "officehotel.png"
     }
 ]

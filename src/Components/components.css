@@ -1,5 +1,5 @@
 :root {
-    --theme-color: #71AFBD;
+    --theme-color: #FF4C62;
 }
 
 .topbar {
@@ -61,7 +61,7 @@
 
 .about > .contents > .greeting {
     font-weight: 700;
-    font-size: 23px;
+    font-size: 34px;
     margin-bottom: 20px;
 }
 
